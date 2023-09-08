@@ -3,6 +3,7 @@
 Alphabet Soup venture capital needs assistance to allocate funds. The aim of this project is to predict the success of a startup if funded by Alphabet Soup, a fictitious venture capital firm. The goal is train and evaluate a deep learning model that uses the provided features to create a binary classifier to predict the success of an applicant. The business team has given you a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years.
 
 ### Technologies
+
  * Python 3.10 or later
  * Anaconda Distribution
  * Pandas
